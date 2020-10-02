@@ -92,7 +92,7 @@ a:hover {
 	background-color: #f5f5f5;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center bottom;
+	background-position: center;
 	position: relative;
 }
 .bnr-area:after {
